@@ -15,7 +15,7 @@ A clean and reusable interaction system built in Unity.
 
 ## 📸 Screenshots
 
-### After Interaction
+### Interaction
 ![Prompt](Press%20E%20to%20interact.png)
 
 ### System Setup (Scripts)
