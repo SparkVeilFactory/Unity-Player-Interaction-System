@@ -41,7 +41,9 @@ You can easily:
 
 ---
 
-## 🚀 Demo
+## 🎥 Demo Video (Real-time interaction system)
+<video src="interaction-demo.mp4" controls width="600"></video>
+
 
 
 ---
